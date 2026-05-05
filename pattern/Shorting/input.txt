@@ -1,0 +1,8 @@
+6
+100 jatin car 15000
+101 piyush car 10000
+103 raju car 12000
+104 rahul skuti 10000
+105 tanu car 20000
+106 pratham auto 20000
+car
