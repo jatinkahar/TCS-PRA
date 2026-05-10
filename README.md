@@ -3,7 +3,9 @@
 🚀 Java Full Stack Developer @ TCS
 
 ## About Me
-I am an Assistant System Engineer Trainee at TCS and an MCA Graduate (2023–2025) passionate about Java Full Stack Development, backend systems, and problem solving.
+Hi, I'm Jatin Kahar, an Assistant System Engineer Trainee at Tata Consultancy Services (TCS) and an MCA Graduate (2023–2025).
+
+I am passionate about Java Full Stack Development, backend engineering, REST APIs, and solving coding problems using Data Structures & Algorithms.
 
 ## Tech Stack
 - Java
@@ -14,17 +16,25 @@ I am an Assistant System Engineer Trainee at TCS and an MCA Graduate (2023–202
 - Git & GitHub
 - Data Structures & Algorithms
 
-## Current Focus
-- Backend Development
+## Currently Working On
+- Java Backend Development
+- Spring Boot Projects
 - REST APIs
 - DSA Practice
-- Real-world Java Projects
+- Real-world Applications
 
 ## Featured Projects
 - Sudoku App
 - Chat Application
 - DSA With Java
 - Spring Boot APIs
+- Portfolio Website
+
+## Goals
+- Improve problem-solving skills
+- Build scalable applications
+- Contribute consistently on GitHub
+- Grow as a Software Engineer
 
 ## Connect With Me
 - LinkedIn: https://linkedin.com/in/jatinkahar
